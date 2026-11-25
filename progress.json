@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T13:34:44.767Z",
+  "generated_at": "2026-11-25T13:40:59.483Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -270,9 +270,9 @@
       "url": "https://www.deep-ml.com/problems/1250",
       "path": "problems/1250-reverse-a-singly-linked-list",
       "first_solved_at": "2026-11-25T13:35:00.463Z",
-      "last_pushed_at": "2026-11-25T13:35:00.463Z",
+      "last_pushed_at": "2026-11-25T13:41:04.709Z",
       "language": "python",
-      "lines": 12
+      "lines": 9
     }
   }
 }
