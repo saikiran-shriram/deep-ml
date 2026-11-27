@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 27 problems · 0 labs · 0 math
+**28** solved · 28 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -27,6 +27,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [First N Fibonacci Numbers](https://www.deep-ml.com/problems/1151) | easy | 2026-11-26 | [solution](problems/1151-first-n-fibonacci-numbers) |
 | [Handle Missing Data in pandas (dropna/fillna)](https://www.deep-ml.com/problems/1128) | easy | 2026-11-23 | [solution](problems/1128-handle-missing-data-in-pandas-dropna-fillna) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-20 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-11-27 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Remove duplicates with DISTINCT](https://www.deep-ml.com/problems/1105) | easy | 2026-11-23 | [solution](problems/1105-remove-duplicates-with-distinct) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-11-20 | [solution](problems/0003-reshape-matrix) |
 | [Reverse a Singly Linked List](https://www.deep-ml.com/problems/1250) | easy | 2026-11-25 | [solution](problems/1250-reverse-a-singly-linked-list) |
